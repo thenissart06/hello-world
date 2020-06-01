@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi there!
+
+During lockdown I'm learning GraphQL, GithHub and AWS!
+Not bad :)
